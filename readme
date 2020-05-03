@@ -1,0 +1,14 @@
+Viterbi parsing (Using Python)
+Huang Yuebin 
+
+Overview
+This project follows the description of the Viterbi parsing algorithm and hidden Markov model.
+Results shows that this algorithm can be used to find the most likely path of genome sequence.
+
+Installation Dependencies:
+● Python 3.7
+● Windows 10
+
+Included libraries
+● Numpy
+● sys
