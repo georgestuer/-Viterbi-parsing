@@ -12,3 +12,7 @@ Installation Dependencies:
 Included libraries
 ● Numpy
 ● sys
+
+Input
+● example.hmm: probability matrix
+● example.fa: genome sequence containing CpG islands
