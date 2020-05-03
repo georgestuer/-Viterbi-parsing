@@ -16,3 +16,6 @@ Included libraries
 Input
 ● example.hmm: probability matrix
 ● example.fa: genome sequence containing CpG islands
+
+How to run?
+python viterbi_cpg.py example.hmm example.fa
